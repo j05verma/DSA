@@ -84,3 +84,5 @@ public class Direction {
         System.out.println("Test 7 (expect false): " + canReach(grid7));
     }
 }
+// Time Complexity: O(m × n)
+// Space Complexity: O(m × n)
